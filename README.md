@@ -13,8 +13,7 @@
 - 🚀 Always excited to build real-time, scalable applications  
 - 🧠 Currently learning advanced backend architecture and cloud deployment  
 - 💬 Ask me about anything related to **React**, **Node.js**, **Firebase**, **Next.js**, or **Socket.IO**  
-- 📫 How to reach me: [your-email@example.com]  
-- 🌐 Portfolio: [your-portfolio-link]
+- 📫 How to reach me: [deepaksharma032006@gmail.com]  
 
 ---
 
