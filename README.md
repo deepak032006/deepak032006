@@ -25,6 +25,21 @@
 
 ---
 
+### 🏅 Certification
+
+**Master Full Stack Web Development (MERN)**  
+_Coding Blocks | Verified Certificate_
+
+- Covered: MongoDB, Express.js, React.js, Node.js  
+- Built scalable full-stack apps with authentication, APIs, and cloud deployment  
+- Hands-on learning with real-world projects
+
+<p align="center">
+  <img src="https://github.com/deeapk032006/your-repo-name/blob/main/certificates/IMG_20250517_210406.jpg?raw=true" alt="Coding Blocks MERN Certificate" width="500"/>
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
