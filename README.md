@@ -35,7 +35,7 @@ _Coding Blocks | Verified Certificate_
 - Hands-on learning with real-world projects
 
 <p align="center">
-  <img src="https://github.com/deeapk032006/your-repo-name/blob/main/IMG_20250517_210406.jpg?raw=true" alt="Coding Blocks MERN Certificate" width="500"/>
+  <img src="https://github.com/deepak032006/deepak032006/blob/main/IMG_20250517_210406.jpg?raw=true" alt="Coding Blocks MERN Certificate" width="500"/>
 </p>
 
 ---
