@@ -43,12 +43,12 @@ _Coding Blocks | Verified Certificate_
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deeapk032006&show_icons=true&theme=react&border_radius=10&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deeapk032006&theme=react&border_radius=10" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak032006&show_icons=true&theme=react&count_private=true&include_all_commits=true&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=deepak032006&theme=react&border_radius=10" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeapk032006&layout=compact&theme=react&border_radius=10" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak032006&layout=compact&theme=react&border_radius=10" width="48%" alt="Top Languages" />
 </p>
 
 
