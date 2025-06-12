@@ -44,13 +44,7 @@ _Coding Blocks | Verified Certificate_
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepak032006&show_icons=true&theme=react&count_private=true&include_all_commits=true&border_radius=10" width="48%" alt="GitHub Stats" />
- <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeapk032006&layout=compact&theme=react&border_radius=10" 
-    width="48%" 
-    alt="Top Languages" 
-  />
-</p>
+
 
 ---
 
