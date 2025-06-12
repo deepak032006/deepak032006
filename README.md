@@ -47,9 +47,17 @@ _Coding Blocks | Verified Certificate_
   <img src="https://github-readme-streak-stats.demolab.com/?user=deepak032006&theme=react&border_radius=10" width="48%" alt="GitHub Streak" />
 </p>
 
+---
+
+### 💡 Language Usage (Manually Highlighted)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak032006&layout=compact&theme=react&border_radius=10" width="48%" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/JavaScript-Used%20Most-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-Next%20Priority-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-Important-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-Fundamental-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
+
 
 
 ---
