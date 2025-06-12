@@ -9,33 +9,32 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a passionate **MERN Stack Developer** who loves creating scalable, real-time apps
-- 🌐 I specialize in **web + mobile** — React, React Native, Firebase, and Node.js
-- 🧠 Currently learning **cloud deployment**, **microservices**, and **backend architecture**
-- 💬 I enjoy helping others — feel free to reach out about:
-  **React**, **Next.js**, **Node.js**, **Socket.IO**, or **Firebase**
-- 📬 Contact me at: **deepaksharma032006@gmail.com**
+- 👨‍💻 Passionate **Full Stack Developer** with a strong foundation in **MERN Stack** and **React Native**
+- 🌍 Focused on crafting high-performance, scalable **web & mobile** applications
+- 🔭 Currently exploring **cloud deployment**, **microservices**, and **backend architecture**
+- 🤝 Love collaborating on meaningful projects and sharing knowledge with the dev community
+- 📫 Reach me at: **deepaksharma032006@gmail.com**
 
 ---
 
-### ⚙️ Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,socketio,reactnative,firebase,mongodb,mysql,ts,js,html,css,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,socketio,reactnative,firebase,mongodb,mysql,ts,js,html,css,tailwind,git,github" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deeapk032006&show_icons=true&theme=react&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deeapk032006&theme=react&border_radius=10" width="48%" />
 </p>
 
 ---
 
-### 🌐 Let's Connect!
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:deepaksharma032006@gmail.com">
@@ -55,4 +54,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
 </p>
 
-<p align="center"><strong>✨ Thanks for stopping by! Let's code something amazing together. ✨</strong></p>
+<p align="center"><strong>✨ Thanks for visiting! Let’s build something exceptional together. ✨</strong></p>
